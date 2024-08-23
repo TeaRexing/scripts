@@ -6,6 +6,7 @@
 
 When I work on a Windows desktop machine, I have my linux laptop by my side and like to switch seamlessly between the two systems with the same mouse and keyboard. 
 [Barrier](https://github.com/tpoechtrager/barrier) allows me to do this but sometimes the keymap on my linux machine gets mangled up...
+As you can see I am using a german keyboard layout - so you might change the layout for your needs.
 This small script fixes this issue for me.
 
 ## heicToPng.sh
